@@ -1,0 +1,5 @@
+SLACK_CHANNEL_NAME: "assignment-6"
+ENVIRONMENT: "prod"
+CODE_BASE_PATH: "/home/ubuntu/"
+ACTION_MESSAGE: "Started Deploying"
+KEEP_APPROVAL_STAGE: true
